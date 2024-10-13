@@ -5,7 +5,7 @@
 
 ## 📢 About this repo
 
-* **Unofficial Study Guide for CEH v10 exam, forked from:** <small>https://github.com/scottymcraig/CEHv10StudyGuide</small> 
+* **Unofficial Study Guide for CEH v10 exam, forked from:** <small>https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master</small> 
     * **Changes:**
         - [+] Modules added
         - [+] Increased information details in all modules
@@ -26,24 +26,24 @@
 
 # Index
 
-**All Modules in one single file**: [![markdown](https://img.shields.io/badge/Markdown-.md-silver.svg)](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/All-Modules.md) [![HTML](https://img.shields.io/badge/HTML-.html-blue.svg)](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/All-Modules.html)
+**All Modules in one single file**: [![markdown](https://img.shields.io/badge/Markdown-.md-silver.svg)](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/tree/main/modules) [![HTML](https://img.shields.io/badge/HTML-.html-blue.svg)](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/tree/main/modules)
 
 
 
-0. [Introduction to Information Security and Ethical Hacking](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/0-Introduction.md)
-1. [Reconnaissance and Footprinting](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/1-Reconnaissance-and-Footprinting.md)
-2. [Scanning and Enumeration](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/2-Scanning-and-Enumeration.md)
-3. [System Hacking](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/3-System-Hacking.md)
-4. [Malwares](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/4-Malware.md)
-5. [Sniffing](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/5-Sniffing.md)
-6. [Social Engineering](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/6-Social-Engineering.md)
-7. [Evading IDS, Firewalls and Honeypots](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/7-Evading-IDS-Firewalls-and-Honeypots.md)
-8. [Denial of Service](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/8-Denial-of-Service.md)
-9. [Session Hijacking](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/9-Session-Hijacking.md)
-10. [Hacking Web Servers](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/10-Hacking-Web-Servers.md)
-11. [Hacking Web Applications](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/11-Hacking-Web-Applications.md)
-12. [Hacking Wireless Networks](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/12-Hacking-Wireless-Networks.md)
-13. [Hacking IoT and Mobile Platforms](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/13-Hacking-Mobile-Platforms-and-IoT.md)
-14. [Pentesting](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/14-Pentesting.md)
-15. [Cloud Computing](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/15-Cloud%20Computing.md)
-16. [Cryptography](https://github.com/Samsar4/CEH-v10-Study-Guide/blob/master/modules/16-Cryptography.md)
+0. [Introduction to Information Security and Ethical Hacking](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/0-Introduction.md)
+1. [Reconnaissance and Footprinting](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/1-Reconnaissance-and-Footprinting.md)
+2. [Scanning and Enumeration](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/2-Scanning-and-Enumeration.md)
+3. [System Hacking](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/3-System-Hacking.md)
+4. [Malwares](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/4-Malware.md)
+5. [Sniffing](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/5-Sniffing.md)
+6. [Social Engineering](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/6-Social-Engineering.md)
+7. [Evading IDS, Firewalls and Honeypots](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/7-Evading-IDS-Firewalls-and-Honeypots.md)
+8. [Denial of Service](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/8-Denial-of-Service.md)
+9. [Session Hijacking](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/9-Session-Hijacking.md)
+10. [Hacking Web Servers](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/10-Hacking-Web-Servers.md)
+11. [Hacking Web Applications](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/11-Hacking-Web-Applications.md)
+12. [Hacking Wireless Networks](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/12-Hacking-Wireless-Networks.md)
+13. [Hacking IoT and Mobile Platforms](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/13-Hacking-Mobile-Platforms-and-IoT.md)
+14. [Pentesting](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/14-Pentesting.md)
+15. [Cloud Computing](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/15-Cloud%20Computing.md)
+16. [Cryptography](https://github.com/hidayat-tanjung/CEH-v10-Study-Guide-master/blob/main/modules/16-Cryptography.md)
